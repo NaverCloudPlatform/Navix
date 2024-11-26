@@ -41,9 +41,9 @@ body:
     attributes:
       label: Environment
       placeholder: |
-        - OS: [e.g. Navix]
-        - Version [e.g. 9]
-        - Hardware: [e.g. x86_64, aarch64]
+        * OS: [e.g. Navix]
+        * Version [e.g. 9]
+        * Hardware: [e.g. x86_64, aarch64]
   - type: textarea
     attributes:
       label: Additional context
