@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: FAQ
+    url: https://navix.navercorp.com/docs/faq/
+    about: Please first check the FAQ before asking a question.

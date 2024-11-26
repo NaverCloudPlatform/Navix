@@ -1,0 +1,12 @@
+name: Question
+description: Please ask and answer questions here.
+title: "[Q]"
+labels: 
+  - "question"
+body:
+  - type: textarea
+    attributes:
+      label: Please describe you question.
+    validations:
+      required: true
+
