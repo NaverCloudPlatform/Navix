@@ -12,7 +12,7 @@
 #### Status
 
 - [![new](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/new)](https://github.com/NaverCloudPlatform/Navix/labels/new) 최근 추가된 버그입니다. [![assigned](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/assigned)](https://github.com/NaverCloudPlatform/Navix/labels/assigned) 혹은 [![closed](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/closed)](https://github.com/NaverCloudPlatform/Navix/labels/closed) 상태로 변경될 예정입니다.
-- [![assigned](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/assigned)](https://github.com/NaverCloudPlatform/Navix/labels/assigned) 엔지니어에게 할당되어 작업 중입니다.
+- [![assigned](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/assigned)](https://github.com/NaverCloudPlatform/Navix/labels/assigned) 엔지니어에게 할당되었습니다.
 - [![ondev](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/ondev)](https://github.com/NaverCloudPlatform/Navix/labels/ondev) 담당 엔지니어가 작업 중입니다.
 - [![resolved](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/resolved)](https://github.com/NaverCloudPlatform/Navix/labels/resolved) 버그가 수정되었습니다.
 - [![verified](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/verified)](https://github.com/NaverCloudPlatform/Navix/labels/verified) 버그 수정이 검증되었습니다.
