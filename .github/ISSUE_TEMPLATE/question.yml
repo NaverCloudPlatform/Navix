@@ -5,6 +5,8 @@ labels:
   - "question"
 body:
   - type: textarea
+    attributes:
+      label: Please describe you question.
     validations:
       required: true
 
