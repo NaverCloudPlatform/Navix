@@ -41,7 +41,7 @@ body:
     attributes:
       label: Environment
       placeholder: |
-        * OS: [e.g. Navix]
+        * OS: [e.g. NAVIX]
         * Version [e.g. 9]
         * Hardware: [e.g. x86_64, aarch64]
   - type: textarea
