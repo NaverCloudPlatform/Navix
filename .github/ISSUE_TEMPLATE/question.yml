@@ -6,7 +6,7 @@ labels:
 body:
   - type: textarea
     attributes:
-      label: Please describe you question.
+      label: Please describe your question.
     validations:
       required: true
 
