@@ -17,4 +17,4 @@
 - [![resolved](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/resolved)](https://github.com/NaverCloudPlatform/Navix/labels/resolved) 버그가 수정되었습니다.
 - [![verified](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/verified)](https://github.com/NaverCloudPlatform/Navix/labels/verified) 버그 수정이 검증되었습니다.
 - [![duplicate](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/duplicate)](https://github.com/NaverCloudPlatform/Navix/labels/duplicate) 중복된 버그입니다.
-- [![closed](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/closed)](https://github.com/NaverCloudPlatform/Navix/labels/closed) 
+- [![closed](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/closed)](https://github.com/NaverCloudPlatform/Navix/labels/closed) 종료된 버그입니다.
