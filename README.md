@@ -7,7 +7,7 @@
 - [버그 제보하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=bug%2Cnew&projects=&template=bugreport.yml&title=%5BBUG%5D) [![bug](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/bug)](https://github.com/NaverCloudPlatform/Navix/labels/bug)
 - [새로운 기능 제보하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BENHANCEMENT%5D) [![enhancement](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/enhancement)](https://github.com/NaverCloudPlatform/Navix/labels/enhancement)
 - [문의하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=question&projects=&template=question.yml&title=%5BQ%5D) [![question](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/question)](https://github.com/NaverCloudPlatform/Navix/labels/question)
-- [FAQ](https://github.com/NaverCloudPlatform/Navix/tree/main/)
+- [FAQ](https://github.com/NaverCloudPlatform/Navix/tree/main/docs)
 
 #
 #### Status
