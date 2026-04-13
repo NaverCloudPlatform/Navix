@@ -7,16 +7,14 @@ NAVIX는 Naver가 관리하는 Linux 배포판입니다. Naver의 인프라와 �
 
 ---
 
-## 시작하기
+## 피드백 및 지원
 
-### 소스 코드
-
-- **Source ISO:** [https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/](https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/)
-- **저장소별 소스 트리:**
-  ```
-  https://dlnavix.navercorp.com/9/x86_64/{저장소명}/source/tree/
-  ```
-  예시: `https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/tree/`
+| 항목 | 링크 |
+|---|---|
+| 버그 제보 | [버그 리포트 작성하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=bug%2Cnew&projects=&template=bugreport.yml&title=%5BBUG%5D) [![bug](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/bug)](https://github.com/NaverCloudPlatform/Navix/labels/bug) |
+| 기능 요청 | [기능 요청하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BENHANCEMENT%5D) [![enhancement](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/enhancement)](https://github.com/NaverCloudPlatform/Navix/labels/enhancement) |
+| 문의하기 | [질문 등록하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=question&projects=&template=question.yml&title=%5BQ%5D) [![question](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/question)](https://github.com/NaverCloudPlatform/Navix/labels/question) |
+| FAQ | [docs/](https://github.com/NaverCloudPlatform/Navix/tree/main/docs) |
 
 ---
 
@@ -58,17 +56,6 @@ new → assigned → ondev → resolved → verified → closed
 ```
 
 각 상태에 대한 자세한 내용은 아래 [이슈 레이블 및 상태](#이슈-레이블-및-상태) 섹션을 참고하세요.
-
----
-
-## 피드백 및 지원
-
-| 항목 | 링크 |
-|---|---|
-| 버그 제보 | [버그 리포트 작성하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=bug%2Cnew&projects=&template=bugreport.yml&title=%5BBUG%5D) [![bug](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/bug)](https://github.com/NaverCloudPlatform/Navix/labels/bug) |
-| 기능 요청 | [기능 요청하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BENHANCEMENT%5D) [![enhancement](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/enhancement)](https://github.com/NaverCloudPlatform/Navix/labels/enhancement) |
-| 문의하기 | [질문 등록하기](https://github.com/NaverCloudPlatform/Navix/issues/new?assignees=&labels=question&projects=&template=question.yml&title=%5BQ%5D) [![question](https://img.shields.io/github/labels/NaverCloudPlatform/Navix/question)](https://github.com/NaverCloudPlatform/Navix/labels/question) |
-| FAQ | [docs/](https://github.com/NaverCloudPlatform/Navix/tree/main/docs) |
 
 ---
 

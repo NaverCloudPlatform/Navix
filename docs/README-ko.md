@@ -4,7 +4,7 @@
 
 네. 아래 경로를 통해 소스 코드를 확인할 수 있습니다:
 
-- **Source ISO:** [https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/](https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/)
+- **Source ISO:** [https://dlnavix.navercorp.com/navix/9/x86_64/BaseOS/iso/](https://dlnavix.navercorp.com/navix/9/x86_64/BaseOS/iso/)
 - **저장소별 소스 트리:**
   ```
   https://dlnavix.navercorp.com/9/x86_64/{저장소명}/source/tree/

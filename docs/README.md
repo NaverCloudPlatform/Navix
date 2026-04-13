@@ -4,7 +4,7 @@
 
 Yes. Source code is available through the following channels:
 
-- **Source ISO:** [https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/](https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/)
+- **Source ISO:** [https://dlnavix.navercorp.com/navix/9/x86_64/BaseOS/iso/](https://dlnavix.navercorp.com/navix/9/x86_64/BaseOS/iso/)
 - **Per-repository source tree:**
   ```
   https://dlnavix.navercorp.com/9/x86_64/{repository}/source/tree/

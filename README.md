@@ -7,19 +7,6 @@ NAVIX is a Linux distribution maintained by Naver. It provides a stable, enterpr
 
 ---
 
-## Getting Started
-
-### Source Code
-
-- **Source ISO:** [https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/](https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/iso/)
-- **Per-repository source tree:**
-  ```
-  https://dlnavix.navercorp.com/9/x86_64/{repository}/source/tree/
-  ```
-  Example: `https://dlnavix.navercorp.com/9/x86_64/BaseOS/source/tree/`
-
----
-
 ## Feedback & Support
 
 | Action | Link |
