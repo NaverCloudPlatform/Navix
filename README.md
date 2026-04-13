@@ -1,6 +1,6 @@
 # NAVIX (Naver Linux)
 
-NAVIX is a Linux distribution maintained by Naver. It provides a stable, enterprise-grade OS environment optimized for Naver's infrastructure and services.
+NAVIX is an open-source Linux distribution based on OpenELA, aiming to provide a stable, secure, and freely available Linux platform for developers and system administrators. Licensed under GPLv2, the project is openly developed and welcomes contributions from the community.
 
 - [NAVIX Homepage](https://navix.navercorp.com/)
 - [NAVIX Repository](https://dlnavix.navercorp.com/)

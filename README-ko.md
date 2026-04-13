@@ -1,6 +1,6 @@
 # NAVIX (Naver Linux)
 
-NAVIX는 Naver가 관리하는 Linux 배포판입니다. Naver의 인프라와 서비스에 최적화된 안정적인 엔터프라이즈급 OS 환경을 제공합니다.
+NAVIX는 OpenELA 기반의 오픈소스 Linux 배포판으로, 개발자와 시스템 관리자에게 안정적이고 안전하며 자유롭게 사용할 수 있는 Linux 플랫폼을 제공하는 것을 목표로 합니다. GPLv2 라이선스 하에 공개적으로 개발되며, 커뮤니티의 기여를 환영합니다.
 
 - [NAVIX 홈페이지](https://navix.navercorp.com/)
 - [NAVIX 저장소](https://dlnavix.navercorp.com/)
